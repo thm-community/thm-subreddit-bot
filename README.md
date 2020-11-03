@@ -1,4 +1,6 @@
-# THM-Subreddit-Bot
+<p align="center"><img src="https://assets.tryhackme.com/img/THMlogo.png" width="350" title="TryHackMe Logo"></p>
+<p align="center">Subreddit Bot</p>
+
 TryHackMe Subreddit Bot
 
 **Source:** Created by DarkStar7471 aka Jon
